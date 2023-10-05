@@ -1,0 +1,38 @@
+# Python-related files and directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+env/
+*.venv/
+
+# IDE-specific directories
+.idea/
+.vscode/
+
+# Compiled Python files and packages
+__pycache__/
+dist/
+build/
+*.egg-info/
+
+# Logs and temporary files
+*.log
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Other files and directories that may not be needed in the repository
+*.cache
+*.idea
+*.sage
